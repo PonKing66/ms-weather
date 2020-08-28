@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="284c5092-f0b7-4682-8999-b3d386227de3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="F:\DevelopmentTools\maven-repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../DevelopmentTools/apache-maven-3.6.2" />
+        <option name="userSettingsFile" value="F:\DevelopmentTools\apache-maven-3.6.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="jdkForImporter" value="1.8" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1gfrBLzV9Aa6Jh0kVzcawcXzj5i" />
+  <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/msa-weather-config-server/src/main/resources" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.47126436" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="yiiguxing.plugin.translate" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\IntelliJ IDEA\项目demo\ms-weather\msa-weather-config-server\src\main\resources" />
+      <recent name="F:\IntelliJ IDEA\项目demo\ms-weather\msa-weather-city\src\main\resources" />
+      <recent name="F:\IntelliJ IDEA\项目demo\ms-weather\msa-weather-collection\src\main\resources" />
+      <recent name="F:\IntelliJ IDEA\项目demo\ms-weather\msa-weather-data\src\main\resources" />
+      <recent name="F:\IntelliJ IDEA\项目demo\ms-weather\msa-weather-eureka-server\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="Application" />
+        <option value="CompoundRunConfigurationType" />
+        <option value="CucumberJavaRunConfigurationType" />
+        <option value="JarApplication" />
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Compound.all">
+    <configuration default="true" type="CompoundRunConfigurationType">
+      <toRun name="EurekaServerApplication" type="SpringBootApplicationConfigurationType" />
+      <toRun name="EurekaClientZuulApplication" type="SpringBootApplicationConfigurationType" />
+      <toRun name="WeatherReportEurFeignGwHyApplication" type="SpringBootApplicationConfigurationType" />
+      <toRun name="WeatherCollectionEurekaFeignApplication" type="SpringBootApplicationConfigurationType" />
+      <toRun name="EurekaConfigServerApplication" type="SpringBootApplicationConfigurationType" />
+      <toRun name="WeatherCityEurekaApplication" type="SpringBootApplicationConfigurationType" />
+      <toRun name="WeatherDataEurekaApplication" type="SpringBootApplicationConfigurationType" />
+      <method v="2" />
+    </configuration>
+    <configuration name="all" type="CompoundRunConfigurationType">
+      <toRun name="WeatherCollectionEurekaFeignApplication" type="SpringBootApplicationConfigurationType" />
+      <toRun name="EurekaConfigServerApplication" type="SpringBootApplicationConfigurationType" />
+      <toRun name="EurekaServerApplication" type="SpringBootApplicationConfigurationType" />
+      <toRun name="WeatherReportWebApplication" type="SpringBootApplicationConfigurationType" />
+      <toRun name="WeatherDataServerApplication" type="SpringBootApplicationConfigurationType" />
+      <toRun name="WeatherCityEurekaApplication" type="SpringBootApplicationConfigurationType" />
+      <toRun name="EurekaClientZuulApplication" type="SpringBootApplicationConfigurationType" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="msa-weather-config-server" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="msa-weather-config-server" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaClientZuulApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="msa-weather-zuul" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hpg.springcloud.weather.WeatherZuulGatewayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaConfigServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="msa-weather-config-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hpg.springcloud.weather.EurekaConfigServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="msa-weather-eureka-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hpg.springcloud.weather.EurekaServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WeatherCityEurekaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="msa-weather-city" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hpg.springcloud.weather.WeatherCityServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WeatherCollectionEurekaFeignApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="msa-weather-collection" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hpg.springcloud.weather.WeatherCollectionServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WeatherDataServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="msa-weather-data" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hpg.springcloud.weather.WeatherDataServerApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WeatherReportWebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="msa-weather-report" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hpg.springcloud.weather.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hpg.springcloud.weather.WeatherReportWebApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Compound.all" />
+      <item itemvalue="Spring Boot.EurekaClientZuulApplication" />
+      <item itemvalue="Spring Boot.EurekaServerApplication" />
+      <item itemvalue="Spring Boot.EurekaConfigServerApplication" />
+      <item itemvalue="Spring Boot.WeatherCityEurekaApplication" />
+      <item itemvalue="Spring Boot.WeatherCollectionEurekaFeignApplication" />
+      <item itemvalue="Spring Boot.WeatherDataServerApplication" />
+      <item itemvalue="Spring Boot.WeatherReportWebApplication" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="284c5092-f0b7-4682-8999-b3d386227de3" name="Default Changelist" comment="" />
+      <created>1598516350438</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598516350438</updated>
+      <workItem from="1598516353291" duration="11069000" />
+      <workItem from="1598538242877" duration="3814000" />
+      <workItem from="1598571940970" duration="392000" />
+      <workItem from="1598572394285" duration="1788000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="440" y="93" key="#Project_Structure" timestamp="1598529491760">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="93" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1598529491760" />
+    <state x="483" y="112" key="#WeatherDataEurekaApplication" timestamp="1598543680169">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="483" y="112" key="#WeatherDataEurekaApplication/0.0.1920.1040@0.0.1920.1040" timestamp="1598543680169" />
+    <state x="483" y="112" key="#WeatherReportEurFeignGwHyApplication" timestamp="1598542969499">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="483" y="112" key="#WeatherReportEurFeignGwHyApplication/0.0.1920.1040@0.0.1920.1040" timestamp="1598542969499" />
+    <state x="414" y="173" width="1174" height="693" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598572416760">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="173" width="1174" height="693" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1598572416760" />
+    <state x="779" y="209" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1598517382160">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="779" y="209" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1598517382160" />
+    <state x="650" y="247" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1598543288556">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="650" y="247" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1598543288556" />
+    <state x="1038" y="211" key="FileChooserDialogImpl" timestamp="1598542858869">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1038" y="211" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1598542858869" />
+    <state width="1400" height="502" key="GridCell.Tab.0.bottom" timestamp="1598574700419">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1400" height="502" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1598574700419" />
+    <state width="1400" height="502" key="GridCell.Tab.0.center" timestamp="1598574700419">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1400" height="502" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1598574700419" />
+    <state width="1400" height="502" key="GridCell.Tab.0.left" timestamp="1598574700419">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1400" height="502" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1598574700419" />
+    <state width="1400" height="502" key="GridCell.Tab.0.right" timestamp="1598574700419">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1400" height="502" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1598574700419" />
+    <state width="1400" height="502" key="GridCell.Tab.1.bottom" timestamp="1598574700419">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1400" height="502" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1598574700419" />
+    <state width="1400" height="502" key="GridCell.Tab.1.center" timestamp="1598574700419">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1400" height="502" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1598574700419" />
+    <state width="1400" height="502" key="GridCell.Tab.1.left" timestamp="1598574700419">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1400" height="502" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1598574700419" />
+    <state width="1400" height="502" key="GridCell.Tab.1.right" timestamp="1598574700419">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1400" height="502" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1598574700419" />
+    <state width="1400" height="323" key="GridCell.Tab.2.bottom" timestamp="1598543001723">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1400" height="323" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1598543001723" />
+    <state width="1400" height="323" key="GridCell.Tab.2.center" timestamp="1598543001723">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1400" height="323" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1598543001723" />
+    <state width="1400" height="323" key="GridCell.Tab.2.left" timestamp="1598543001723">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1400" height="323" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1598543001723" />
+    <state width="1400" height="323" key="GridCell.Tab.2.right" timestamp="1598543001723">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1400" height="323" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1598543001723" />
+    <state x="898" y="225" key="NewModule_or_Project.wizard" timestamp="1598542860014">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="898" y="225" key="NewModule_or_Project.wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1598542860014" />
+    <state x="738" y="96" key="SettingsEditor" timestamp="1598542861114">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="738" y="96" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1598542861114" />
+    <state x="504" y="247" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1598531131741">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="504" y="247" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1920.1040@0.0.1920.1040" timestamp="1598531131741" />
+    <state x="546" y="261" key="new project wizard" timestamp="1598517108800">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="546" y="261" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1598517108800" />
+    <state x="616" y="235" key="run.anything.popup" timestamp="1598573288226">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="235" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1598573288226" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/msa-weather-city/src/main/java/com/hpg/springcloud/weather/service/impl/CityDataServiceImpl.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

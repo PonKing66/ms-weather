@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/ms-report/pom.xml" />
+        <option value="$PROJECT_DIR$/ms-data-eureka/pom.xml" />
+        <option value="$PROJECT_DIR$/msa-weather-collection/pom.xml" />
+        <option value="$PROJECT_DIR$/msa-weather-config-server/pom.xml" />
+        <option value="$PROJECT_DIR$/msa-weather-zuul/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/msa-weather-city-server/pom.xml" />
+        <option value="$PROJECT_DIR$/msa-weather-collection-eureka/pom.xml" />
+        <option value="$PROJECT_DIR$/msa-weather-collection-server/pom.xml" />
+        <option value="$PROJECT_DIR$/msa-weather-data-server/pom.xml" />
+        <option value="$PROJECT_DIR$/msa-weather-report-eureka-feign-gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/msa-weather-report-eureka-feign/pom.xml" />
+        <option value="$PROJECT_DIR$/msa-weather-report-eureka/pom.xml" />
+        <option value="$PROJECT_DIR$/msa-weather-report-server/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
